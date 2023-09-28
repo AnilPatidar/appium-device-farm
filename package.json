@@ -118,7 +118,7 @@
     "@typescript-eslint/parser": "5.54.0",
     "appium-uiautomator2-driver": "^2.10.1",
     "appium-xcuitest-driver": "^4.12.4",
-    "babel-eslint": "10.1.0",
+    "@babel/eslint-parser": "7.11.0",
     "chai": "4.3.10",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.6.0",
